@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d92d87be.css",
+    "main.js": "/static/js/main.90b738e1.js",
+    "static/js/787.07647a6d.chunk.js": "/static/js/787.07647a6d.chunk.js",
+    "static/media/heroes-bg.png": "/static/media/heroes-bg.71ab9a13d73de3860763.png",
+    "static/media/main.png": "/static/media/main.ed52d6e86fe68709bc26.png",
+    "static/media/hero.png": "/static/media/hero.78f594c156bdcc559995.png",
+    "static/media/tatapunch.png": "/static/media/tatapunch.34f983baafa8822217c7.png",
+    "static/media/profile-pic.png": "/static/media/profile-pic.58480a2079a46bb7d3be.png",
+    "static/media/golf6.png": "/static/media/golf6.70e3fed8b572bb4f9e8f.png",
+    "static/media/bmw320.png": "/static/media/bmw320.7af99968ebf6587fff37.png",
+    "static/media/benz.png": "/static/media/benz.39affa677e0370a1f0d4.png",
+    "static/media/passatcc.png": "/static/media/passatcc.cf4643e33185d7dd329c.png",
+    "static/media/pfp2.jpg": "/static/media/pfp2.fd9b1716200244ed8905.jpg",
+    "static/media/logo.png": "/static/media/logo.6f7493c050af02ef5963.png",
+    "static/media/toyotacamry.png": "/static/media/toyotacamry.750e06c67d1eb7f9cc0a.png",
+    "static/media/about-main.jpg": "/static/media/about-main.ed0137841dc67d61ec95.jpg",
+    "static/media/car.png": "/static/media/car.5e21eedbea3280311aff.png",
+    "static/media/bg02.png": "/static/media/bg02.3efbc4567749d0a5671e.png",
+    "static/media/hero-bg.png": "/static/media/hero-bg.3b5f7a2502f0f81d1490.png",
+    "static/media/bg.png": "/static/media/bg.82b3bf0dc76cd35f3da0.png",
+    "static/media/book-bg.png": "/static/media/book-bg.6f629a1041e9fd9c6685.png",
+    "static/media/book-banner.png": "/static/media/book-banner.09fcba44170a314c81a8.png",
+    "static/media/pfp1.jpg": "/static/media/pfp1.ba7974ae51bb5d44fa69.jpg",
+    "static/media/bg-contact.png": "/static/media/bg-contact.c178c6db0f988d408d94.png",
+    "static/media/googleapp.svg": "/static/media/googleapp.e6493904327fe3f9b89c7c75a4f3ae74.svg",
+    "static/media/appstore.svg": "/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
+    "index.html": "/index.html",
+    "main.d92d87be.css.map": "/static/css/main.d92d87be.css.map",
+    "main.90b738e1.js.map": "/static/js/main.90b738e1.js.map",
+    "787.07647a6d.chunk.js.map": "/static/js/787.07647a6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d92d87be.css",
+    "static/js/main.90b738e1.js"
+  ]
+}
