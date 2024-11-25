@@ -6,7 +6,7 @@ Welcome to the **Car Rental System** repository! This is a full-stack web applic
 
 ## Demo
 
-Explore the live demo of the application here: [Car Rental MERN](https://mern-car-rental.netlify.app/)
+Explore the live demo of the application here: (https://mern-car-rental.netlify.app/)
 
 ---
 
